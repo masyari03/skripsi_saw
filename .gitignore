@@ -1,0 +1,20 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment & Private Configs
+.env
+.env.*
+!.env.example
+
+# Temporary / Log files
+*.log
+scratch/
+tmp/
